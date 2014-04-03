@@ -1,4 +1,4 @@
 FuckNewton
 ==========
 
-A Gravity/Runner game made with Unity
+A Gravity Puzzler game made with Unity
