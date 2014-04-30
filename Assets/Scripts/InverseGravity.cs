@@ -5,7 +5,7 @@ public class InverseGravity : MonoBehaviour
 {
     private int speed = 10;
 	
-   // Use this for initialization
+    // Use this for initialization
     void Start ()
     {
     }
