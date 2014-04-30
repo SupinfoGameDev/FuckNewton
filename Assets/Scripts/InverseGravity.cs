@@ -19,18 +19,18 @@ public class InverseGravity : MonoBehaviour
             {
                 Physics.gravity = new Vector3(0, speed, 0);
                 speed = -10;
-                this.moveAll();
+                this.MoveAll();
             }
             else
             {   
                 Physics.gravity = new Vector3(0, speed, 0);
                 speed = 10;
-                this.moveAll();
+                this.MoveAll();
             }
         }
     }
 
-    void moveAll()
+    private void MoveAll()
     {
         var objectsToEffect = GameObject.FindGameObjectsWithTag("ObjectToEffect");
         foreach (var obj in objectsToEffect)
