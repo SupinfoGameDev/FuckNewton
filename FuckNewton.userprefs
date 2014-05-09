@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InverseGravity.cs">
     <Files>
-      <File FileName="Assets\Scripts\InverseGravity.cs" Line="24" Column="15" />
-      <File FileName="Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="61" Column="34" />
-      <File FileName="Assets\2D\Scripts\Platformer2DUserControl.cs" Line="29" Column="43" />
+      <File FileName="Assets\Scripts\InverseGravity.cs" Line="27" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
