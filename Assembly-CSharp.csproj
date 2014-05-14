@@ -71,8 +71,6 @@
      <Compile Include="Assets\Cross Platform Input\Scripts\VirtualInput.cs" />
      <Compile Include="Assets\Scripts\Interrupteur.cs" />
      <Compile Include="Assets\Scripts\InverseGravity.cs" />
-     <None Include="Assets\Sprites\nothing.txt" />
-     <None Include="Assets\Sounds\nothing.txt" />
      <None Include="Assets\Cross Platform Input\Cross Platform Input Guidelines.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

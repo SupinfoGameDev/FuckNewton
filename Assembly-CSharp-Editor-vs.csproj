@@ -47,8 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Cross Platform Input\Scripts\Editor\CrossPlatformInputInitialize.cs" />
-     <None Include="Assets\Sprites\nothing.txt" />
-     <None Include="Assets\Sounds\nothing.txt" />
      <None Include="Assets\Cross Platform Input\Cross Platform Input Guidelines.txt" />
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:\Logiciel\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
