@@ -69,6 +69,7 @@
      <Compile Include="Assets\Cross Platform Input\Scripts\TouchPadRelativePositional.cs" />
      <Compile Include="Assets\Cross Platform Input\Scripts\TouchPadSwipe.cs" />
      <Compile Include="Assets\Cross Platform Input\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\Scripts\Interrupteur.cs" />
      <Compile Include="Assets\Scripts\InverseGravity.cs" />
      <None Include="Assets\Sprites\nothing.txt" />
      <None Include="Assets\Sounds\nothing.txt" />
